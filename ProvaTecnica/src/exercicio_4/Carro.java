@@ -5,10 +5,6 @@ public abstract class Carro {
 	private String marca;
 	private String tipoCombustivel;
 	
-	public Carro() {
-		super();
-	}
-	
 	public String getModelo() {
 		return modelo;
 	}

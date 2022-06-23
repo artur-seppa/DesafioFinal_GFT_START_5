@@ -21,10 +21,10 @@ public class ShowCarro extends Carro{
 			this.placa = placa;
 		}
 
-		@Override
-		public String toString() {
-			return "ShowCarro [cor=" + cor + ", placa=" + placa + ", getModelo()=" + getModelo() + ", getMarca()="
-					+ getMarca() + ", getTipoCombustivel()=" + getTipoCombustivel() + "]";
-		}
+//		@Override
+//		public String toString() {
+//			return "ShowCarro [cor=" + cor + ", placa=" + placa + ", getModelo()=" + getModelo() + ", getMarca()="
+//					+ getMarca() + ", getTipoCombustivel()=" + getTipoCombustivel() + "]";
+//		}
 		
 }
